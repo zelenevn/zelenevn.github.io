@@ -1,0 +1,42 @@
+#header-container {
+    height: 84px;
+    background-color: rgb(253, 239, 182);
+}
+
+#header-container-content {
+    display: table;
+    margin: 0 auto;
+}
+
+#header-container-content ul {
+    min-width: 696px;
+    list-style: none;
+    padding-top:20px;
+    text-align: right;
+}
+
+#header-container-content ul li {
+    display: inline;
+    margin-left: 35px;
+}
+
+#main-container {
+
+}
+
+#footer-container {
+
+}
+
+#contact-form-container {
+
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
